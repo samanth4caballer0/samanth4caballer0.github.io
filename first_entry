@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Name — Poems</title>
+  <style>
+    body {
+      max-width: 700px;
+      margin: 60px auto;
+      padding: 0 20px;
+      font-family: Georgia, serif;
+      line-height: 1.7;
+      color: #111;
+      background: #fff;
+    }
+    h1 {
+      font-weight: normal;
+      margin-bottom: 60px;
+    }
+    .poem {
+      margin-bottom: 80px;
+    }
+    .title {
+      font-style: italic;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Your Name</h1>
+
+<div class="poem">
+  <div class="title">Untitled</div>
+  <p>
+    I keep my words<br>
+    folded in the quiet<br>
+    where no one looks first.
+  </p>
+</div>
+
+<div class="poem">
+  <div class="title">Another Poem</div>
+  <p>
+    Some things are not meant<br>
+    to be finished,<br>
+    only left open.
+  </p>
+</div>
+
+</body>
+</html>
